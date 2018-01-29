@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://example.org/"
+baseURL = "https://patricklduffy.com/"
 languageCode = "en-US"
 title = "Split - HTML Template Demo"
 theme = "hugo-split-theme"
@@ -13,8 +13,8 @@ googleAnalytics = ""
 
   # Metadata for search engines and social sharing
   name = "Patrick Duffy"
-  description = "Rad ass dude."
-  shareImage = "images/coleman_2018-1-13.jpg"
+  description = "Data Analysis and Visualization. R. Reproducibility. STEM Education."
+  shareImage = "images/pld17.jpg"
   twitterHandle = "patrickduffy134"
 
   # Favicon
@@ -26,8 +26,8 @@ googleAnalytics = ""
   # Section - Content
   [params.content]
     name = "Patrick Duffy"
-    tagline = "Rad ass dude"
-    bio = "Bikes. Beers. Baby."
+    tagline = "Data Analysis and Visualization. R. Reproducibility. STEM Education."
+    bio = "I started in STEM education and work currently in data analysis and instructional design. I'm an avid and constantly-learning R user, dad, mountain biker, and surely other things."
 
   # Section - Visual
   [params.visual]
@@ -35,7 +35,7 @@ googleAnalytics = ""
     # Image
     [params.visual.image]
       enable = true
-      file = "images/coleman_2018-1-13.jpg"
+      file = "images/pld17.jpg"
       position = "center center"
 
     # Video
@@ -58,7 +58,7 @@ googleAnalytics = ""
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "patricklduffy34@gmail.com"
+        url = "mailto:patricklduffy34@gmail.com"
 
       [[params.links.list1.link]]
         text = "Newsletter"
