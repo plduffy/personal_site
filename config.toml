@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://patricklduffy.com/"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Patrick Duffy"
 theme = "hugo-split-theme"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
