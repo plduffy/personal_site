@@ -38,12 +38,6 @@ googleAnalytics = ""
       file = "images/pld17.jpg"
       position = "center center"
 
-    # Video
-    [params.visual.video]
-      enable = false
-      mute = true
-      file = "videos/background.mp4"
-      # youtubeId = "dk9uNWPP7EA"
 
   # Links
   #
@@ -53,21 +47,18 @@ googleAnalytics = ""
       heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
+        text = "Twitter"
+        url = "https://twitter.com/patrickduffy134"
 
       [[params.links.list1.link]]
         text = "Email"
         url = "mailto:patricklduffy34@gmail.com"
 
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
 
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
+      heading = "Professional"
 
       [[params.links.list2.link]]
         text = "GitHub"
@@ -77,26 +68,6 @@ googleAnalytics = ""
         text = "LinkedIn"
         url = "https://www.linkedin.com/in/patrick-duffy-471a86a8/"
 
-      [[params.links.list2.link]]
-        text = "Twitter"
-        url = "https://twitter.com/patrickduffy134"
-
-  # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Network"
-
-      [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
